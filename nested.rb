@@ -19,6 +19,8 @@ def hopper
 
 end
 
+#What steps are being asked for to complete this lab?
+
 def nested hash
   def hopper
     programmer_hash[:grace_hopper]
